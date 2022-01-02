@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ny_res/static/css/main.bd759467.css",
+    "main.js": "/ny_res/static/js/main.b3ac9c62.js",
+    "static/media/pattng.png": "/ny_res/static/media/pattng.678fb95fa50926547909.png",
+    "static/media/TTNorms-Bold.ttf": "/ny_res/static/media/TTNorms-Bold.e457a6b5c0040678c95a.ttf",
+    "static/media/TTNormsStdCond-BlackItalic.ttf": "/ny_res/static/media/TTNormsStdCond-BlackItalic.18014dcf665a4fb65bf8.ttf",
+    "index.html": "/ny_res/index.html",
+    "main.bd759467.css.map": "/ny_res/static/css/main.bd759467.css.map",
+    "main.b3ac9c62.js.map": "/ny_res/static/js/main.b3ac9c62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd759467.css",
+    "static/js/main.b3ac9c62.js"
+  ]
+}
